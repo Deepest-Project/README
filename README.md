@@ -13,4 +13,4 @@ Our teams are categorized as follows.
 - Reinforcement Learning  
 - General  
 
-Each team performs and shares the research and development with own theme. For more information, check it out!
+Each team performs and shares the research and implementations of given theme. For more information, check it out!
