@@ -43,7 +43,7 @@ In each project team, team members can **discuss/share** about their project and
 If the project team repository is builded please add repository in the project team page.
 
 ### How to make repository?  
-1. **Fork** or **build** the repository in **oraganization main page**.  
+1. **Fork or build** the repository in **oraganization main page**.  
 2. **Add** repository in the **main team page** and the **project team page**.  
 
 ----------------------------------------------------------------------------------------------
