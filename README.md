@@ -55,7 +55,9 @@ In Reading Group team main page, members can open reading group. ([link](https:/
 If the reading group is fixed, then the proposer 
 1) becomes the reading group leader. Please **pin and announce.** (when, where, what etc.)
 2) get the maintainer rights (the administrator will give)
-3) open a reading group team with **repository containing wiki page.**
+3) open a reading group team page + **repository containing wiki page.**
+
+This is reading group team page templete ([link](https://github.com/orgs/Deepest-Project/teams/neurips-2018)). Here more **detailed schedule** will be announced (when, where, detailed what, who).
 
 <img src=/captures/RG1.JPG width="700"/>
 
