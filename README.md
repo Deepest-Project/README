@@ -46,13 +46,14 @@ If the project team repository is builded please add repository in the project t
 1. **Fork** or **build** the repository in **oraganization main page**.  
 2. **Add** repository in each **main team page** and each **project team page**.  
 
+----------------------------------------------------------------------------------------------
 ### Reading Group  
 In Reading Group team main page, members can open reading group. ([link](https://github.com/orgs/Deepest-Project/teams/reading-groups))
 
 <img src=/captures/RG_main.JPG width="700"/> 
 
 If the reading group is fixed, then the proposer 
-1) becomes the reading group leader. Please pin and announce. (when, where, what etc.)
+1) becomes the reading group leader. Please **pin and announce.** (when, where, what etc.)
 2) get the maintainer rights (the administrator will give)
 3) open a reading group team with repository containing wiki page.
 
