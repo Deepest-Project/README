@@ -20,10 +20,10 @@ Reading Group
 These categories can be found in **teams tap**. Note that, this tap is **only visible to Deepest community members.**
 
 ## About teams (main)  
-Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews.
+Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews. ([link](https://github.com/orgs/Deepest-Project/teams))
 
 ### Project implementation team main page
-In each main team, members only can propose projects and discuss. 
+In each main team, members only can propose projects and discuss. ([main team page](https://github.com/orgs/Deepest-Project/teams/vision))
 
 <img src=/captures/main_team1.JPG width="800"/>
 
@@ -34,7 +34,7 @@ If the proposed project is fixed, please **pin and announce**.
 If the proposed project become able to be proceeded, the proposer
 1) becomes the project leader. Please pin and announce project.
 2) get the maintainer rights (the administrator will give).
-3) open a project team page.
+3) open a project team page. ([project team page](https://github.com/orgs/Deepest-Project/teams/image2caricature))
 
 <img src=/captures/project_team1.JPG width="700"/>
 
@@ -43,16 +43,16 @@ In each project team, team members can **discuss/share** about their project and
 If the project team repository is builded please add repository in the project team page.
 
 ### How to make repository?  
-1. **Fork or build** the repository in **oraganization main page**.  
+1. **Fork** or **build** the repository in **oraganization main page**.  
 2. **Add** repository in each **main team page** and each **project team page**.  
 
 ### Reading Group  
-In Reading Group team main page, members can open reading group.
+In Reading Group team main page, members can open reading group. ([link](https://github.com/orgs/Deepest-Project/teams/reading-groups))
 
-<img src=/captures/RG_main.JPG width="700"/>
+<img src=/captures/RG_main.JPG width="700"/> 
 
 If the reading group is fixed, then the proposer 
-1) becomes the reading group leader
+1) becomes the reading group leader. Please pin and announce. (when, where, what etc.)
 2) get the maintainer rights (the administrator will give)
 3) open a reading group team with repository containing wiki page.
 
