@@ -32,14 +32,19 @@ If the proposed project is fixed, please **pin and announce**.
 <img src=/captures/main_team2.JPG width="400"/>
   
 If the proposed project become able to be proceeded, the proposer
-1) becomes the project leader and pin and announce project.
+1) becomes the project leader. Please pin and announce project.
 2) get the maintainer rights (the administrator will give).
-3) open a project team.
+3) open a project team page.
 
 <img src=/captures/project_team1.JPG width="700"/>
 
-In each project team, team members can discuss and track their project progress. Note that, all of these are visible to Deepest members.
+In each project team, team members can **discuss/share** about their project and **track** their project progress. Note that, all of these are visible to Deepest members. 
 
+If the project team repository is builded please add repository in the project team page.
+
+### How to make repository?  
+1. **Fork or build** the repository in **oraganization main page**.  
+2. **Add** repository in each **main team page** and each **project team page**.  
 
 ### Reading Group  
 In Reading Group team main page, memnbers can open reading group.
@@ -56,8 +61,5 @@ Here are wiki page templete. (repo : [link](https://github.com/Deepest-Project/N
 
 <img src=/captures/RG4.JPG width="700"/>
 
-### How to make repository?  
-1. **Fork or build** the repository in **oraganization main page**.  
-2. **Add** repository in each **main team page** and each **project team page**.  
 
 
