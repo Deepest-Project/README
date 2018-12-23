@@ -25,15 +25,15 @@ Our main teams (e.g. Vision, Reading Group ...) can be categorized as project im
 ### Project implementation team main page
 In each main team, members only can propose projects and discuss. 
 
-<img src=/captures/main_team1.JPG width="800" height="350" />
+<img src=/captures/main_team1.JPG width="800"/>
 
 If the proposed project is fixed, please **pin and announce**.
 
-<img src=/captures/main_team2.JPG width="800" height="350" />
+<img src=/captures/main_team2.JPG width="400"/>
   
 If the proposed project become able to be proceeded, the proposer 1) becomes the project leader and 2) get the maintainer rights (the administrator will give) and 3) open a project team.
 
-<img src=/captures/project_team1.JPG width="700" height="300" />
+<img src=/captures/project_team1.JPG width="700"/>
 
 In each project team, team members can discuss and track their project progress. Note that, all of these are visible to Deepest members.
 
@@ -41,20 +41,20 @@ In each project team, team members can discuss and track their project progress.
 ### Reading Group  
 In Reading Group team main page, memnbers can open reading group.
 
-<img src=/captures/RG_main.JPG width="700" height="250" />
+<img src=/captures/RG_main.JPG width="700"/>
 
 If the reading group is fixed, then the proposer 1) becomes the reading group leader and 2) get the maintainer rights (the administrator will give) and 3) open a reading group team with repository containing wiki page.
 
-<img src=/captures/RG1.JPG width="700" height="250" />
+<img src=/captures/RG1.JPG width="700"/>
 
 Here are wiki page templete. (repo : [link](https://github.com/Deepest-Project/NeurIPS-2018), click wiki tap!)
 
-<img src=/captures/RG3.JPG width="700" height="400" />
+<img src=/captures/RG3.JPG width="700"/>
 
-<img src=/captures/RG4.JPG width="700" height="400" />
+<img src=/captures/RG4.JPG width="700"/>
 
 ### How to make repository?  
-1. Fork or build the repository in oraganization main page.  
-2. Add repository in each main team page and each project team page.
+1. **Fork or build** the repository in **oraganization main page**.  
+2. **Add** repository in each **main team page** and each **project team page**.  
 
 
