@@ -47,11 +47,14 @@ If the project team repository is builded please add repository in the project t
 2. **Add** repository in each **main team page** and each **project team page**.  
 
 ### Reading Group  
-In Reading Group team main page, memnbers can open reading group.
+In Reading Group team main page, members can open reading group.
 
 <img src=/captures/RG_main.JPG width="700"/>
 
-If the reading group is fixed, then the proposer 1) becomes the reading group leader and 2) get the maintainer rights (the administrator will give) and 3) open a reading group team with repository containing wiki page.
+If the reading group is fixed, then the proposer 
+1) becomes the reading group leader
+2) get the maintainer rights (the administrator will give)
+3) open a reading group team with repository containing wiki page.
 
 <img src=/captures/RG1.JPG width="700"/>
 
