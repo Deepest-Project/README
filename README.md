@@ -37,4 +37,12 @@ In Reading Group team main page, memnbers can open reading group.
 
 If the reading group is fixed, then the proposer 1) becomes the reading group leader and 2) get the maintainer rights (the administrator will give) and 3) open a reading group team with repository containing wiki page.
 
+> announcement ex
+
+> wiki page ex
+
+### How to make repository?  
+1. Fork or build the repository in oraganization main page.  
+2. Add repository in each main team page and each project team page.
+
 
