@@ -31,7 +31,10 @@ If the proposed project is fixed, please **pin and announce**.
 
 <img src=/captures/main_team2.JPG width="400"/>
   
-If the proposed project become able to be proceeded, the proposer 1) becomes the project leader and 2) get the maintainer rights (the administrator will give) and 3) open a project team.
+If the proposed project become able to be proceeded, the proposer
+1) becomes the project leader and pin and announce project.
+2) get the maintainer rights (the administrator will give).
+3) open a project team.
 
 <img src=/captures/project_team1.JPG width="700"/>
 
