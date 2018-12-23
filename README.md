@@ -6,7 +6,7 @@ We are enthusiasts of **deep learning** from Seoul, Korea.
 Deepest consists of researchers/engineers from field/school with a wide rage of interests/backgrounds.
 
 ## About our Git page
-Our repositories mainly consist of *project implementations* and *paper reviews.*  
+Our repositories mainly consist of **project implementations** and **paper reviews.**  
 These repositories are categorized primarily through the following criteria:  
 ```
 Vision  
@@ -17,6 +17,11 @@ General
 Reading Group
 ```
 
-These categories can be found in **team tap**. Note that, this tap is **only visible to Deepestc community members.**
+These categories can be found in **teams tap**. Note that, this tap is **only visible to Deepest community members.**
 
-Each team performs and shares the research and implementations of given theme. For more information, check our teams!
+## About teams (main)  
+Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews.
+
+### Project implementation team
+All teams but Reading Group.
+
