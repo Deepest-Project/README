@@ -22,15 +22,15 @@ These categories can be found in **teams tap**. Note that, this tap is **only vi
 ## About teams (main)  
 Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews.
 
-### Project implementation  
+### Project implementation team main page
 In each main team, members only can propose projects and discuss. 
 
-<img src=/captures/main_team1.JPG width="700" height="350" />
+<img src=/captures/main_team1.JPG width="800" height="350" />
 
-If the proposed project is fixed, please **pin and announce**!
+If the proposed project is fixed, please **pin and announce**.
 
-<img src=/captures/main_team2.JPG width="700" height="400" />
-
+<img src=/captures/main_team2.JPG width="800" height="350" />
+  
 If the proposed project become able to be proceeded, the proposer 1) becomes the project leader and 2) get the maintainer rights (the administrator will give) and 3) open a project team.
 
 <img src=/captures/project_team1.JPG width="700" height="300" />
@@ -45,7 +45,7 @@ In Reading Group team main page, memnbers can open reading group.
 
 If the reading group is fixed, then the proposer 1) becomes the reading group leader and 2) get the maintainer rights (the administrator will give) and 3) open a reading group team with repository containing wiki page.
 
-<img src=/captures/RG1.JPG width="700" height="400" />
+<img src=/captures/RG1.JPG width="700" height="250" />
 
 Here are wiki page templete. (repo : [link](https://github.com/Deepest-Project/NeurIPS-2018), click wiki tap!)
 
