@@ -44,7 +44,7 @@ If the project team repository is builded please add repository in the project t
 
 ### How to make repository?  
 1. **Fork** or **build** the repository in **oraganization main page**.  
-2. **Add** repository in each **main team page** and each **project team page**.  
+2. **Add** repository in the **main team page** and the **project team page**.  
 
 ----------------------------------------------------------------------------------------------
 ### Reading Group  
