@@ -22,6 +22,9 @@ These categories can be found in **teams tap**. Note that, this tap is **only vi
 ## About teams (main)  
 Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews.
 
-### Project implementation team
+### Project implementation
+All teams but Reading Group.
+
+### Reading Group
 All teams but Reading Group.
 
