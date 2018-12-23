@@ -22,9 +22,19 @@ These categories can be found in **teams tap**. Note that, this tap is **only vi
 ## About teams (main)  
 Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews.
 
-### Project implementation
-All teams but Reading Group.
+### Project implementation  
+In each main team, members only can propose projects and discuss. 
+> image
 
-### Reading Group
-All teams but Reading Group.
+If the proposed project become able to be proceeded, the proposer 1) becomes the project leader and 2) get the maintainer rights (the administrator will give) and 3) open a project team.
+> image
+
+In each project team, team members can discuss and track their project progress. Note that, all of these are visible to Deepest members.
+
+
+### Reading Group  
+In Reading Group team main page, memnbers can open reading group.
+
+If the reading group is fixed, then the proposer 1) becomes the reading group leader and 2) get the maintainer rights (the administrator will give) and 3) open a reading group team with repository containing wiki page.
+
 
