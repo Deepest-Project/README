@@ -23,16 +23,12 @@ These categories can be found in **teams tap**. Note that, this tap is **only vi
 Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews. ([link](https://github.com/orgs/Deepest-Project/teams))
 
 ### Project implementation team main page
-In each main team, members only can propose projects and discuss. ([main team page](https://github.com/orgs/Deepest-Project/teams/vision))
+In each main team, ongoing and done projects are announced. ([main team page](https://github.com/orgs/Deepest-Project/teams/vision))
 
 <img src=/captures/main_team1.JPG width="800"/>
-
-If the proposed project is fixed, please **pin and announce**.
-
-<img src=/captures/main_team2.JPG width="400"/>
   
 If the proposed project become able to be proceeded, the proposer
-1) becomes the project leader. Please pin and announce project.
+1) becomes the project leader and please **pin and announce** the project at main page.
 2) get the maintainer rights (the administrator will give).
 3) open a project team page. ([project team page](https://github.com/orgs/Deepest-Project/teams/image2caricature))
 
@@ -40,7 +36,7 @@ If the proposed project become able to be proceeded, the proposer
 
 In each project team, team members can **discuss/share** about their project and **track** their project progress. Note that, all of these are visible to Deepest members. 
 
-If the project team repository is builded please add repository in the project team page.
+If the project team repository is builded, please add repository in the project team page.
 
 ### How to make repository?  
 1. **Fork or build** the repository in **oraganization main page**.  
