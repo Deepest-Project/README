@@ -1,9 +1,9 @@
 ## Welcome!
-Here are some descriptions for our git repositories. 
+Here are some descriptions for our git page. 
 
 ## About Deepest 
 We are enthusiasts of **deep learning** from Seoul, Korea.  
-Deepest consists of researchers/engineers from field/school with a wide rage of interests/backgrounds.
+Deepest consists of researchers/engineers from field/school with a wide rage of interests/backgrounds. 
 
 ## About our Git page
 Our repositories mainly consist of **project implementations** and **paper reviews.**  
