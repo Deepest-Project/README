@@ -23,14 +23,14 @@ These categories can be found in **teams tap**. Note that, this tap is **only vi
 Our main teams (e.g. Vision, Reading Group ...) can be categorized as project implementation or paper reviews. ([link](https://github.com/orgs/Deepest-Project/teams))
 
 ### Project implementation team main page
-In each main team, ongoing and done projects are announced. ([main team page](https://github.com/orgs/Deepest-Project/teams/vision))
+In each main team, ongoing and done projects are announced. ([example](https://github.com/orgs/Deepest-Project/teams/vision))
 
 <img src=/captures/main_team1.JPG width="800"/>
   
 If the proposed project become able to be proceeded, the proposer
 1) becomes the project leader and please **pin and announce** the project at main page.
 2) get the maintainer rights (the administrator will give).
-3) open a project team page. ([project team page](https://github.com/orgs/Deepest-Project/teams/image2caricature))
+3) open a project team page. ([example](https://github.com/orgs/Deepest-Project/teams/image2caricature))
 
 <img src=/captures/project_team1.JPG width="700"/>
 
@@ -44,7 +44,7 @@ If the project team repository is builded, please add repository in the project 
 
 ----------------------------------------------------------------------------------------------
 ### Reading Group  
-In Reading Group team main page, members can open reading group. ([link](https://github.com/orgs/Deepest-Project/teams/reading-groups))
+In Reading Group team main page, members can open reading group. ([example](https://github.com/orgs/Deepest-Project/teams/reading-groups))
 
 <img src=/captures/RG_main.JPG width="700"/> 
 
