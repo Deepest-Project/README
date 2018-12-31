@@ -57,7 +57,7 @@ This is reading group team page templete ([link](https://github.com/orgs/Deepest
 
 <img src=/captures/RG1.JPG width="700"/>
 
-Here are wiki page templete. (repo : [link](https://github.com/Deepest-Project/NeurIPS-2018), click wiki tap!)
+Here is a wiki page templete. (repo : [link](https://github.com/Deepest-Project/NeurIPS-2018), click wiki tap!)
 
 <img src=/captures/RG3.JPG width="700"/>
 
