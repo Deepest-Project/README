@@ -36,7 +36,7 @@ If the proposed project become able to be proceeded, the proposer
 
 In each project team, team members can **discuss/share** about their project and **track** their project progress. Note that, all of these are visible to Deepest members. 
 
-If the project team repository is builded, please add repository in the project team page.
+If the project team repository is builded, please add repository in the project team page. (Only for public repo.)
 
 ### How to make repository?  
 1. **Fork or build** the repository in **oraganization main page**.  
