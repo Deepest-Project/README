@@ -27,9 +27,8 @@ Ongoing and finished projects are listed at each of the main team's page. ([exam
 <img src=/captures/main_team1.JPG width="800"/>
   
 To begin working on a project, the proposer of that project should consider and carry out the following:
-1) As the project leader, you will obtain maintainer rights (given to you by the administrator). 
-2) **Pin and announce** the project at the corresponding main team's discussion page.
-3) Create your project team page within the main team. ([example](https://github.com/orgs/Deepest-Project/teams/image2caricature))
+1) The project leader **Pin and announce** the project at the corresponding main team's discussion page.
+2) Create your project team page within the main team. ([example](https://github.com/orgs/Deepest-Project/teams/image2caricature))
 
 <img src=/captures/project_team1.JPG width="700"/>
 
@@ -39,7 +38,7 @@ Once the project team repository is created, please add it to the project team p
 
 ### How to add repositories  
 1. **Fork or build** the repository in the **oraganization main page**.  
-2. **Add** the repository to the **main team page** and the **project team page**.  
+2. **Add** the repository to the the **project team page**.  
 
 ----------------------------------------------------------------------------------------------
 ### Reading Group  
@@ -48,9 +47,8 @@ Members can open reading groups at the Reading Group team main page. ([example](
 <img src=/captures/RG_main.JPG width="700"/> 
 
 Once a reading group is fixed, the proposer of that reading group should consider and carry out the following:
-1) As the reading group leader, you will obtain maintainer rights (given to you by the administrator).  
-2) **Pin and announce** an overview of your reading group (when, where, what, etc) at the main team's discussion page.  
-3) Create your reading group team page and **a repository containing a wiki page** within the main team. ([example](https://github.com/orgs/Deepest-Project/teams/neurips-2018))  
+1) The reading group leader **Pin and announce** an overview of your reading group (when, where, what, etc) at the main team's discussion page.  
+2) Create your reading group team page and **a repository containing a wiki page** within the main team. ([example](https://github.com/orgs/Deepest-Project/teams/neurips-2018))  
 
 You can announce **detailed schedules** (when, where, detailed what, who) periodically at the reading group team page.
 
