@@ -60,7 +60,4 @@ Refer to the following link for wiki page templetes. (repo : [link](https://gith
 
 <img src=/captures/RG3.JPG width="700"/>
 
-<img src=/captures/RG4.JPG width="700"/>
-
-
 
